@@ -1,0 +1,23 @@
+
+title: "Coseppi Kitchen"
+languageCode: "en-us"
+description: "Inclusive Vegetarian Cooking by Taylor Cook &amp; James Seppi"
+theme: "coseppi-kitchen-theme"
+baseURL: "/"
+
+params:
+    mediaRoot: "https://s3.amazonaws.com/cosppi-kitchen-media/"
+
+menu:
+    main:
+    - url: "/"
+      name: "Home"
+      weight: 1
+
+    - url: "/post/"
+      name: "Posts"
+      weight: 2
+
+    - url: "/about/"
+      name: "About"
+      weight: 3

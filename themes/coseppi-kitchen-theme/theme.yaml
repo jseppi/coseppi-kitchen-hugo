@@ -1,0 +1,11 @@
+name: "Coseppi Kitchen Theme"
+license: "MIT"
+licenselink: "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description: ""
+homepage: "https://kitchen.coseppi.com/"
+min_version: "0.27.1"
+
+author:
+  name: "James Seppi"
+  homepage: "https://jseppi.github.io"
+
